@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content Hub - Scripts examp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action_script_with_a_validation_trigger", "Action_script_with_a_validation_trigger\Action_script_with_a_validation_trigger.csproj", "{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action_script_with_a_security_trigger", "Action_script_with_a_security_trigger\Action_script_with_a_security_trigger.csproj", "{FCC25305-F179-4F98-BCF1-82771331804F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC25305-F179-4F98-BCF1-82771331804F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC25305-F179-4F98-BCF1-82771331804F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC25305-F179-4F98-BCF1-82771331804F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC25305-F179-4F98-BCF1-82771331804F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
