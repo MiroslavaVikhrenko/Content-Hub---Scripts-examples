@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action_script_with_a_valida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action_script_with_a_security_trigger", "Action_script_with_a_security_trigger\Action_script_with_a_security_trigger.csproj", "{FCC25305-F179-4F98-BCF1-82771331804F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media_processing_script", "Media_processing_script\Media_processing_script.csproj", "{42D68A48-3F98-4A9E-9F37-1C090EC75C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FCC25305-F179-4F98-BCF1-82771331804F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCC25305-F179-4F98-BCF1-82771331804F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCC25305-F179-4F98-BCF1-82771331804F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D68A48-3F98-4A9E-9F37-1C090EC75C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D68A48-3F98-4A9E-9F37-1C090EC75C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D68A48-3F98-4A9E-9F37-1C090EC75C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D68A48-3F98-4A9E-9F37-1C090EC75C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
