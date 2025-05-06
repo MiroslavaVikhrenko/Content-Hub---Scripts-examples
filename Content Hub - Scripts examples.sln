@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content Hub - Scripts examples", "Content Hub - Scripts examples\Content Hub - Scripts examples.csproj", "{6C23B42A-2CC3-41EA-95A0-0A3B67BEDD02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action_script_with_a_validation_trigger", "Action_script_with_a_validation_trigger\Action_script_with_a_validation_trigger.csproj", "{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6C23B42A-2CC3-41EA-95A0-0A3B67BEDD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C23B42A-2CC3-41EA-95A0-0A3B67BEDD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C23B42A-2CC3-41EA-95A0-0A3B67BEDD02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867DE0C7-7D6A-4D28-A104-8AD6499B10B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
